@@ -2,7 +2,11 @@ Cold and dry, but everything is my favorite color.
 Another line has been added
 But the Mummy will appreciate the lack of humidity.
 modified file
+<<<<<<< HEAD
 Hello from Mars
 
 Hello, my name is Jinli
 
+=======
+Hello, my name is Mintu!
+>>>>>>> 0a6bfa67b469ecef38f65b490b84afcbf336ee13
